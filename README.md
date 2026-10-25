@@ -1,2 +1,1 @@
-# testing
-how to create repo and commit(saving)
+![](./img/Shugaba@53.jpg)
